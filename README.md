@@ -77,7 +77,7 @@
  
   | Ссылка | Цель проекта | Задачи проекта  | Библиотеки|
   | :-----: | :-------------- | :---------- | :-------:|
-  |[REST API Yamdb](https://github.com/JustLight1/Yandex-Practicum-projects-Python/tree/main/05_API_YamDB)| Написать бэкенд и API для сервиса Yamdb, позволяющем собирать отзывы пользователей на произведения. |Научиться программировать в команде; разобраться с коллаборацией на GitHub; разобраться с PR, merge, rebase, cherry-pick, FF; научиться проводить кросс-ревью на GitHub|![Django](https://img.shields.io/badge/Django-3.2.16-blue)![Django_REST_framework](https://img.shields.io/badge/DRF-3.12.4-blue)|
+  |[REST API Yamdb](https://github.com/JustLight1/Yandex-Practicum-projects-Python/tree/main/05_API_YaMDB)| Написать бэкенд и API для сервиса Yamdb, позволяющем собирать отзывы пользователей на произведения. |Научиться программировать в команде; разобраться с коллаборацией на GitHub; разобраться с PR, merge, rebase, cherry-pick, FF; научиться проводить кросс-ревью на GitHub|![Django](https://img.shields.io/badge/Django-3.2.16-blue)![Django_REST_framework](https://img.shields.io/badge/DRF-3.12.4-blue)|
 
 </details>
 
