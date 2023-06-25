@@ -1,0 +1,5 @@
+IP: 158.160.71.157;
+name_taski: https://yaptaski.myftp.org;
+name_kittygram: https://kittygramlight.ddns.net;
+login: admin;
+password: 1;
