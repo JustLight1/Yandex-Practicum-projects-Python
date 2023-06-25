@@ -42,7 +42,7 @@
     (venv) $ python -m pip install --upgrade pip
     (venv) $ pip install -r requirements.txt
     ```
-4. Запустить проект
+4. Запустить проект:
     ```
     python homework.py
     ```
