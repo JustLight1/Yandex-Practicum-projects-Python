@@ -98,8 +98,6 @@
 
 ---
 
----
-
 <details>
   <summary>
    <h4> CI/CD Kittygran </h4>
@@ -114,9 +112,6 @@
 </details>
 
 ---
-
----
-
 
 <details>
   <summary>
