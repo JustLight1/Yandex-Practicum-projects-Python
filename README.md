@@ -98,6 +98,42 @@
 
 ---
 
+---
+
+<details>
+  <summary>
+   <h4> CI/CD Kittygran </h4>
+  </summary>
+  
+  <br>
+ 
+  | Ссылка | Цель проекта | Задачи проекта  | Библиотеки|
+  | :-----: | :-------------- | :---------- | :-------:|
+  |[CI/CD для Kittygram](https://github.com/JustLight1/kittygram_final)| Настроить workflow тестирования и деплоя проекта на удалённый сервер с помощью Github Actions; | Разобраться с работой docker и docker-compose; Получить представление о CI/CD |![Docker](https://img.shields.io/badge/Docker-blue) ![Gunicorn](https://img.shields.io/badge/Docker-compose-blue)|
+
+</details>
+
+---
+
+---
+
+
+<details>
+  <summary>
+   <h4> REST API и CI/CD Foodgram </h4>
+  </summary>
+  
+  <br>
+ 
+  | Ссылка | Цель проекта | Задачи проекта  | Библиотеки|
+  | :-----: | :-------------- | :---------- | :-------:|
+  |[Продуктовый помощник Foodgram](https://github.com/JustLight1/foodgram-project-react)| Заключительный проект курса. Разработать с нуля REST API для продуктового помощника Foodgram| Отработать полученные за время курса навыки. |![Django_REST_framework](https://img.shields.io/badge/DRF-3.12.4-blue) ![Docker](https://img.shields.io/badge/Docker-blue) ![Docker-compose](https://img.shields.io/badge/Docker-compose-blue)|
+
+</details>
+
+---
+
+
 ## Контакты
 **Форов Александр** 
 
