@@ -1,6 +1,6 @@
 <div align=center>
 
-# Проект Kittygram-Docker
+# Проект Kittygram
 
 ![Python](https://img.shields.io/badge/Python-3.9.10-blue)
 ![Django](https://img.shields.io/badge/Django-3.2.3-blue)
@@ -41,7 +41,7 @@ Kittygram - SPA, предназначенное для всех, кто увле
  
   | Ссылка | Цель проекта | Задачи проекта  | Библиотеки|
   | :-----: | :-------------- | :---------- | :-------:|
-  |[Kittygram](https://github.com/JustLight1/Yandex-Practicum-projects-Python/tree/main/06_Kittygram)| Запустить SPA Kittygram на сервере Yandex.Cloud с помощью nginx и gunicorn | Разобраться со спецификой работы на удалённом сервере; Научиться настраивать nginx и создавать gunicorn-юниты; Разобраться с реализацией SSL-соединения; |![Nginx](https://img.shields.io/badge/Nginx-1.18.0-blue) ![Gunicorn](https://img.shields.io/badge/Gunicorn-20.1.0-blue)|
+  |[Kittygram](https://github.com/JustLight1/Yandex-Practicum-projects-Python/tree/main/06_Kittygram/06_Kittygram_v.0.1)| Запустить SPA Kittygram на сервере Yandex.Cloud с помощью nginx и gunicorn | Разобраться со спецификой работы на удалённом сервере; Научиться настраивать nginx и создавать gunicorn-юниты; Разобраться с реализацией SSL-соединения; |![Nginx](https://img.shields.io/badge/Nginx-1.18.0-blue) ![Gunicorn](https://img.shields.io/badge/Gunicorn-20.1.0-blue)|
 
 </details>
 
@@ -56,7 +56,7 @@ Kittygram - SPA, предназначенное для всех, кто увле
  
   | Ссылка | Цель проекта | Задачи проекта  | Библиотеки|
   | :-----: | :-------------- | :---------- | :-------:|
-  |[CI/CD для Kittygram](https://github.com/JustLight1/kittygram_final)| Настроить workflow тестирования и деплоя проекта на удалённый сервер с помощью Github Actions; | Разобраться с работой docker и docker-compose; Получить представление о CI/CD |![Docker](https://img.shields.io/badge/Docker-blue) ![Gunicorn](https://img.shields.io/badge/Docker-compose-blue)|
+  |[CI/CD для Kittygram](https://github.com/JustLight1/Yandex-Practicum-projects-Python/tree/main/06_Kittygram/06_Kittygram_v.0.2)| Настроить workflow тестирования и деплоя проекта на удалённый сервер с помощью Github Actions; | Разобраться с работой docker и docker-compose; Получить представление о CI/CD |![Docker](https://img.shields.io/badge/Docker-blue) ![Gunicorn](https://img.shields.io/badge/Docker-compose-blue)|
 
 </details>
 
